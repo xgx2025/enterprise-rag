@@ -1,0 +1,6 @@
+[submodule "enterprise-rag-frontend"]
+	path = enterprise-rag-frontend
+	url = https://github.com/xgx2025/enterprise-rag-frontend.git
+[submodule "enterprise-rag-backend"]
+	path = enterprise-rag-backend
+	url = https://github.com/xgx2025/enterprise-rag-backend.git
