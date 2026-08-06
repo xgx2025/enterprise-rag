@@ -3,7 +3,7 @@
 
 ## 子项目仓库地址
 - 后端：[enterprise‑rag‑backend](https://github.com/xgx2025/enterprise-rag-backend)
-- 前端：[enterprise‑rag‑frontend](https://github.com/xgx2025/enterpris-rag-frontend)
+- 前端：[enterprise‑rag‑frontend](https://github.com/xgx2025/enterprise-rag-frontend)
 
 ## 开发部署
 ### 方式1：使用git submodule一次性拉取全部代码
